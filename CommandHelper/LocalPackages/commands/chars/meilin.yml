@@ -1,0 +1,25 @@
+maxHearts: 25
+buffs:
+- /effect <plr> 5 9999 3 true
+- /effect <plr> 10 9999 1 true
+- /effect <plr> 11 9999 1 true
+- /effect <plr> 16 9999 1 true
+chatcolor: '&a'
+class: meilin
+haste: 3
+jump: 2
+name: §0M§fe§0i§fl§0i§fn
+op: 'false'
+permissions:
+  superherocity:
+powers:
+- /buff
+- /jump <0-2>
+- /run <0-2>
+- /haste <0-3>
+- /disguiseviewself
+run: 2
+sig: cNRqEQpR6M1MD+z+HUqAmTq4iqTobVorEN84oXg3WFtOhvuGLipb3LHi5e5VBdsSGgByzSMUqpDljNkntZelT1QW7t0m606+XKI/O/pGel3H01nAOkKdIiwqCUd6a29zr1qRycYiqMSFA7DyAPNJax/QCmj8lXwrObI0lX0X115VYo1JAVoAPj0/kKJL6aNgOLuTa1XkxPinwnTiKn4cdFzSor/B9Y0jOIgMW6Os2hPSb8vzHDSLTIuJcZLQpi+p+6qci81RXkH0KAf4HFbU2WGR8P3APymDVx73h+OUJ1QnK5DcAmKlxQvhOij26alehyISxepUtlpDwhLAkQ3UDvqRoEt5m/nUlm4ZMOh8zhAzBr4Zgwcm0IoJ+ISnrC/TVZAFN0IuAeKl20ORXTsDAMqgsHBDl9j6nMrOPqt5EGEzfRwYhIJN7xh5xvj8jegtyeEOcPTtMMAf/jbxKfoxo5sHsR58qprCR8Yw9lT0c1LjVzvP6BlZVJoznmyqNIzeeJUS2XyAF/FR+wPhEDHg2sI4Yud0Yzx32TOAx2e7+xeaP111PoVP6YAkmBxTOPWGtNcGQfZq0ZHz/jiQqTnCcth2J3w2iJriSiVa7+fjPJI1fxgjATISgesvN5JTV5ouv9K272rS2Gf8DWXSRiznk8M/HAJ35hnyypjyOoxSsC8=
+speech: My heart is a battle field. 
+trail: ''
+val: eyJ0aW1lc3RhbXAiOjE1MjE5NDk5MDU5MzUsInByb2ZpbGVJZCI6IjdkZmY5MWRkOTZlNjRiNzM5ZGZhMTc5OTJlMDU1Njk0IiwicHJvZmlsZU5hbWUiOiJUeG1tZWgiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiMzczNjUwNGRmOWQwNGIyNmJjN2U4OWJkN2YxM2JjZmFhN2JjMjU4Y2ZmOWZhM2ZmOTRiNjkwY2I1NmM0In19fQ==
